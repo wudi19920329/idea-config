@@ -1,0 +1,16 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="743" y="183" />
+    <location key="new project wizard.0.0.1920.1080" x="601" y="56" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="440" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="652" y="351" />
+    <location key="#Project_Structure.0.0.1920.1080" x="440" y="101" />
+    <location key="SettingsEditor.0.0.1920.1080" x="448" y="171" />
+    <location key="search.everywhere.popup.0.0.1920.1080" x="622" y="244" />
+    <location key="find.popup.0.0.1920.1080" x="650" y="219" />
+    <location key="StructurePopup.0.0.1920.1080" x="681" y="255" />
+    <size key="find.popup.0.0.1920.1080" width="619" height="612" />
+    <size key="StructurePopup.0.0.1920.1080" width="540" height="524" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1201" height="707" />
+  </component>
+</application>
