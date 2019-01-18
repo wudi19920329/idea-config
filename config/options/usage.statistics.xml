@@ -9,7 +9,7 @@
       <entry action="CloseProject" count="1" />
       <entry action="Compile" count="1" />
       <entry action="CompileDirty" count="4" />
-      <entry action="DialogCancelAction Esc" count="11" />
+      <entry action="DialogCancelAction Esc" count="12" />
       <entry action="DialogOkAction Enter" count="10" />
       <entry action="DoubleShortcut" count="1" />
       <entry action="EditorBackSpace" count="256" />
@@ -24,7 +24,7 @@
       <entry action="EditorIndentSelection" count="1" />
       <entry action="EditorLeft" count="63" />
       <entry action="EditorLeftWithSelection" count="30" />
-      <entry action="EditorPaste" count="51" />
+      <entry action="EditorPaste" count="54" />
       <entry action="EditorRight" count="52" />
       <entry action="EditorRightWithSelection" count="4" />
       <entry action="EditorStartNewLine" count="1" />
@@ -61,7 +61,7 @@
       <entry action="ShowIntentionActions" count="2" />
       <entry action="ShowPopupMenu" count="1" />
       <entry action="ShowProjectStructureSettings" count="5" />
-      <entry action="ShowSettings" count="63" />
+      <entry action="ShowSettings" count="66" />
       <entry action="Switcher" count="128" />
       <entry action="Synchronize" count="64" />
       <entry action="SynchronizeCurrentFile" count="1" />
@@ -69,7 +69,7 @@
       <entry action="ViewToolBar" count="1" />
       <entry action="ViewToolButtons" count="2" />
       <entry action="WelcomeScreen.CreateNewProject" count="2" />
-      <entry action="third.party.plugin.action" count="31" />
+      <entry action="third.party.plugin.action" count="35" />
       <entry action="tooltip.actions.show.description.morelink" count="1" />
     </counts>
     <contextMenuCounts>
@@ -88,22 +88,23 @@
       <entry action="[MainMenu] TogglePowerSave" count="2" />
       <entry action="[MainMenu] ViewToolBar" count="1" />
       <entry action="[MainMenu] ViewToolButtons" count="2" />
+      <entry action="[MainMenu] third.party.plugin.action" count="2" />
       <entry action="[ProjectViewPopup] $Delete" count="5" />
       <entry action="[ProjectViewPopup] Compile" count="1" />
       <entry action="[ProjectViewPopup] NewClass" count="8" />
       <entry action="[ProjectViewPopup] NewFile" count="2" />
       <entry action="[ProjectViewPopup] RevealIn" count="1" />
       <entry action="[ProjectViewPopup] SynchronizeCurrentFile" count="1" />
-      <entry action="[ProjectViewPopup] third.party.plugin.action" count="1" />
+      <entry action="[ProjectViewPopup] third.party.plugin.action" count="2" />
       <entry action="[unknown] FileChooser.NewFolder" count="1" />
     </contextMenuCounts>
   </component>
   <component name="FUSApplicationUsageTrigger">
     <session id="655482535">
       <usages-collector id="statistics.lifecycle.app">
-        <usage id="ide.start" value="13" />
-        <usage id="ide.close" value="12" />
-        <usage id="ide.close.restart" value="8" />
+        <usage id="ide.start" value="14" />
+        <usage id="ide.close" value="13" />
+        <usage id="ide.close.restart" value="9" />
         <usage id="ide.freeze" value="1">
           <context>
             <entry key="data_1" value="timeSecondsGrouped" />
@@ -112,7 +113,7 @@
         </usage>
       </usages-collector>
       <usages-collector id="statistics.ui.tips">
-        <usage id="shown.automatically" value="13" />
+        <usage id="shown.automatically" value="14" />
         <usage id="next.tip" value="22" />
       </usages-collector>
     </session>
@@ -241,14 +242,15 @@
     <counts>
       <entry toolWindow="Event Log by Activation" count="2" />
       <entry toolWindow="Messages by Activation" count="1" />
-      <entry toolWindow="Project by Activation" count="56" />
+      <entry toolWindow="Project by Activation" count="57" />
       <entry toolWindow="Run by Activation" count="10" />
       <entry toolWindow="Terminal by Activation" count="2" />
-      <entry toolWindow="unknown_by_Activation" count="1" />
+      <entry toolWindow="unknown_by_Activation" count="2" />
     </counts>
   </component>
   <component name="ToolbarClicksCollector">
     <counts>
+      <entry action="LISTED@FindBugs-IDEA" count="1" />
       <entry action="LISTED@MainToolbar" count="3" />
       <entry action="Run@MainToolbar" count="1" />
       <entry action="RunConfiguration@MainToolbar" count="2" />
@@ -259,7 +261,7 @@
       <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="1" />
       <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$5@FileTemplatesConfigurable" count="1" />
       <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6@FileTemplatesConfigurable" count="1" />
-      <entry action="com.intellij.ide.plugins.newui.TabHeaderComponent$3@NavBarToolbar" count="8" />
+      <entry action="com.intellij.ide.plugins.newui.TabHeaderComponent$3@NavBarToolbar" count="9" />
       <entry action="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction@ToolwindowTitle" count="2" />
       <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction@ToolwindowTitle" count="1" />
       <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction@ToolwindowTitle" count="1" />
