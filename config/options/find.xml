@@ -1,7 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="Directory '...\src [HelloWorld]'" />
-    <option name="defaultScopeName" value="Directory '...\src [HelloWorld]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\src [HelloWorld]'" />
-  </component>
-</application>
